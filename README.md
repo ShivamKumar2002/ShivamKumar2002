@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Shivam
 #### I am Android Custom ROM Developer
-![I am Android Custom ROM Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am passionate about rom development and I want to learn more :)
 

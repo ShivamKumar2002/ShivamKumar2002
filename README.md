@@ -1,9 +1,6 @@
-### Hi there 👋, my name is Shivam
-#### I am Android Custom ROM Developer
-
-I am passionate about rom development and I want to learn more :)
-
-Skills: Python / Linux / Bash / PHP
+## Hey 👋, This is Shivam Kumar
+[![Gmail Badge](https://img.shields.io/badge/-kumar.shivam.jarvis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kumar.shivam.jarvis@gmail.com)](mailto:kumar.shivam.jarvis@gmail.com) [![Github Badge](https://img.shields.io/badge/-ShivamKumar2002-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ShivamKumar2002/)](https://www.github.com/ShivamKumar2002/)
+<p align='left'>I am currently learning android custom ROM developement :)</p>
 
 - 🔭 I’m currently working on Corvus OS 
 - 🌱 I’m currently learning device sources bringup 
@@ -11,14 +8,12 @@ Skills: Python / Linux / Bash / PHP
 - 🤔 I’m looking for help with Custom ROM Development 
 - 💬 Ask me about anything I know 
 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ShivamKumar2002 alt=ShivamKumar2002 /> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShivamKumar2002)  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&theme=vue-dark&include_all_commits=1&count_private=1)  
-
-![Profile views](https://gpvc.arturio.dev/ShivamKumar2002)
 <!--
 **ShivamKumar2002/ShivamKumar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

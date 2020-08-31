@@ -11,8 +11,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ShivamKumar2002 alt=ShivamKumar2002 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/ShivamKumar2002/github-readme-stats)
 
 ## Some Projects I am Working On
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=device_xiaomi_violet&theme=vue-dark)](https://github.com/ShivamKumar2002/device_xiaomi_violet)

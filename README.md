@@ -9,9 +9,9 @@
 - 💬 Ask me about anything I know
 
 ## Some Projects I am Working On
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=device_xiaomi_violet-R&theme=vue-dark)](https://github.com/ShivamKumar2002/device_xiaomi_violet-R)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=m4st3r-4.14-violet&theme=vue-dark)](https://github.com/ShivamKumar2002/m4st3r-4.14-violet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=device_xiaomi_violet-Q&theme=vue-dark)](https://github.com/ShivamKumar2002/device_xiaomi_violet-Q)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=vendor_xiaomi_violet-Q&theme=vue-dark)](https://github.com/ShivamKumar2002/vendor_xiaomi_violet-Q)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=M4ST3R-Clang-11&theme=vue-dark)](https://github.com/ShivamKumar2002/M4ST3R-Clang-11)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=scripts&theme=vue-dark)](https://github.com/ShivamKumar2002/scripts)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=device_xiaomi_violet-R&theme=vue-dark)](https://github.com/ShivamKumar2002/device_xiaomi_violet-R)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=device_xiaomi_violet-Q&theme=vue-dark)](https://github.com/ShivamKumar2002/device_xiaomi_violet-Q)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=m4st3r-4.14-violet&theme=vue-dark)](https://github.com/ShivamKumar2002/m4st3r-4.14-violet)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=M4ST3R-Clang-11&theme=vue-dark)](https://github.com/ShivamKumar2002/M4ST3R-Clang-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=scripts&theme=vue-dark)](https://github.com/ShivamKumar2002/scripts)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ShivamKumar2002 alt=ShivamKumar2002 /> </p>

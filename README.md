@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kumar.shivam.jarvis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kumar.shivam.jarvis@gmail.com)](mailto:kumar.shivam.jarvis@gmail.com) [![Github Badge](https://img.shields.io/badge/-ShivamKumar2002-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ShivamKumar2002/)](https://www.github.com/ShivamKumar2002/)
 <p align='left'>I am currently learning android custom ROM developement :)</p>
 
-- 🔭 I’m currently working on Corvus OS 
+- 🔭 I’m currently working on Custom ROMs
 - 🌱 I’m currently learning about Android ROM Development 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Custom ROM Development 

@@ -1,11 +1,11 @@
 ## Hey 👋, This is Shivam Kumar
 [![Gmail Badge](https://img.shields.io/badge/-kumar.shivam.jarvis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kumar.shivam.jarvis@gmail.com)](mailto:kumar.shivam.jarvis@gmail.com) [![Github Badge](https://img.shields.io/badge/-ShivamKumar2002-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ShivamKumar2002/)](https://www.github.com/ShivamKumar2002/)
-<p align='left'>I am currently learning android custom ROM developement :)</p>
+<p align='left'>I am currently learning Python :)</p>
 
-- 🔭 I’m currently working on Custom ROMs
-- 🌱 I’m currently learning about Android ROM Development 
+- 🔭 I’m currently working on [My Python Projects](https://github.com/ShivamKumar2002/python-core-projects-hyperskill)
+- 🌱 I’m currently learning about intermediate Python concepts
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Custom ROM Development 
+- 🤔 I’m looking for help with [joplin-android-extended](https://github.com/ShivamKumar2002/joplin-android-extended)
 - 💬 Ask me about anything I know
 
 ## Some Projects I am Working On

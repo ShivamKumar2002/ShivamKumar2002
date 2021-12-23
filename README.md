@@ -16,7 +16,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ShivamKumar2002 alt=ShivamKumar2002 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002?tab=repositories)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&layout=compact&include_all_commits=true&count_private=true&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002?tab=repositories)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002?tab=repositories)
 
 
 <!--

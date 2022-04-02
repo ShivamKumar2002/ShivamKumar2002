@@ -10,7 +10,7 @@
 
 ## Some Projects I am Working On
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=python-core-projects-hyperskill&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/python-core-projects-hyperskill)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=joplin-android-extended&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/joplin-android-extended)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=Coursera_Machine-Learning&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/Coursera_Machine-Learning)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=configs&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/configs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=Coursera_Machine-Learning&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/Coursera_Machine-Learning)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=dotfiles&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/dotfiles)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=m4st3r-4.14-violet&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/m4st3r-4.14-violet)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamKumar2002&repo=kernel-scripts&theme=react&bg_color=45,000428,004e92)](https://github.com/ShivamKumar2002/kernel-scripts)
 
 ## Some of my Github Stats

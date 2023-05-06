@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShivamKumar2002&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ShivamKumar2002)]([https://visitcount.itsvg.in](https://komarev.com/ghpvc/?username=ShivamKumar2002))
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShivamKumarZ) 

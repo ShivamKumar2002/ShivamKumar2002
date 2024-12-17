@@ -68,7 +68,7 @@ I'm always open to connecting with fellow developers, learning from others, and 
     srcset="https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged"
     media="(prefers-color-scheme: dark)"
   />
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged" />
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source
@@ -79,7 +79,7 @@ I'm always open to connecting with fellow developers, learning from others, and 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&theme=radical&hide_border=false&langs_count=8&layout=compact&include_all_commits=true&count_private=true&hide=c,C%2B%2B,java"
     media="(prefers-color-scheme: dark)"
   />
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&theme=radical&hide_border=false&langs_count=8&layout=compact&include_all_commits=true&count_private=true&hide=c,c%2B%2B,java" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2002&theme=radical&hide_border=false&langs_count=8&layout=compact&include_all_commits=true&count_private=true&hide=c,c%2B%2B,java" />
 </picture>
 
 
@@ -94,7 +94,7 @@ I'm always open to connecting with fellow developers, learning from others, and 
     srcset="https://github-profile-trophy.vercel.app/?username=ShivamKumar2002&theme=radical&margin-w=10&margin-h=10column=-1"
     media="(prefers-color-scheme: dark)"
   />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShivamKumar2002&theme=radical&margin-w=10&margin-h=10column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamKumar2002&theme=radical&margin-w=10&margin-h=10column=-1" />
 </picture>
 
 
@@ -109,7 +109,7 @@ I'm always open to connecting with fellow developers, learning from others, and 
     srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img height=200 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img height=220 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 </picture>
 <br>
 

@@ -47,14 +47,6 @@ I'm a developer with a genuine passion for exploring distributed systems, cloud 
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)&nbsp;
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black)&nbsp;
 
-
-## 🌐 Socials:
-
-I'm always open to connecting with fellow developers, learning from others, and exploring new ideas. Feel free to reach out!
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ShivamKumar2002)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ShivamKumar2002) 
-
 ---
 
 ## 📊 GitHub Stats:

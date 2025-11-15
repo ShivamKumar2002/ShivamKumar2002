@@ -5,6 +5,7 @@ I'm a developer with a genuine passion for exploring distributed systems, cloud 
 
 ## 🚀 Featured Projects
 - **[go-extras](https://github.com/ShivamKumar2002/go-extras)**: VSCode extension that provides advanced Go development features like References filtering that extend beyond the official VS Code Go extension.
+- **[LangWiseAI](https://github.com/ShivamKumar2002/langwise-ai)**: LangWiseAI is where you speak, AI learns, and you grow. Get instant feedback on your language skills and a personalized roadmap to fluency.
 - **[linkwarden-helm-chart](https://github.com/ShivamKumar2002/linkwarden-helm-chart)**: Unofficial Helm chart for deploying Linkwarden on Kubernetes with built-in PostgreSQL, external database support, S3/filesystem storage, Ingress, and SSO.
 - **[personal-k8s-cluster](https://github.com/ShivamKumar2002/personal-k8s-cluster)**: Personal Kubernetes cluster managed using GitOps principles with ArgoCD.
 - **[helm-charts](https://github.com/ShivamKumar2002/helm-charts)**: Personal Helm Repository for various applications.
